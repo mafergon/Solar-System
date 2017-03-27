@@ -19,6 +19,8 @@ To run the simulation you have to follow these steps:
 
 3. Run "Ploter.pde".
 
+Alternatively, if you don't want to compile the fortran file and/or don't have processing on your computer, you can run "sistsol.exe" and then "ploter.exe", both located in the folder "Full"
+
 # Parameters used
 
 You can change the time step in the simulation by changing the second number in the file "param.txt" (currently in 0.05).
